@@ -290,3 +290,11 @@ footer a:hover {
 .project-header{
     padding-top:80px;
 }
+
+.removePadding{
+    padding:15px
+}
+
+.projects{
+    margin:0
+}
